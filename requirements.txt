@@ -1,0 +1,4 @@
+certifi==2023.7.22
+OdooRPC==0.10.1
+pika==1.3.2
+python-dotenv==1.0.0

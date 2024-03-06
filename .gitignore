@@ -1,0 +1,6 @@
+env
+*/__pycharm__.py
+
+.env
+.vscode
+__pycache__/
